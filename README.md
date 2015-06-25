@@ -1,2 +1,8 @@
-# docker-jdk
-Docker container with the Oracle JDK, based on Debian
+## Docker JDK Image
+
+This image creates the base system with the Oracle JDK installed. 
+
+## Building
+
+run the build.sh file
+
