@@ -1,4 +1,4 @@
 #!/bin/sh
 
-docker build --rm=true --tag="nderwin/docker-jdk:8u45" .
+docker build --rm=true --tag="nderwin/docker-jdk:8u60" .
 
